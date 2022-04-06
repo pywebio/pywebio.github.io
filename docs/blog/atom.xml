@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pyweb.io/docs/blog</id>
+    <title>PyWebIO Blog</title>
+    <updated>2022-04-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pyweb.io/docs/blog"/>
+    <subtitle>PyWebIO Blog</subtitle>
+    <icon>https://pyweb.io/docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[placeholder]]></title>
+        <id>/2022/04/06/placeholder</id>
+        <link href="https://pyweb.io/docs/blog/2022/04/06/placeholder"/>
+        <updated>2022-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a placeholder blog post to prevent broken links. Please replace with first available blog post.]]></summary>
+        <content type="html"><![CDATA[<p>This is a placeholder blog post to prevent broken links. Please replace with first available blog post.</p>]]></content>
+    </entry>
+</feed>
