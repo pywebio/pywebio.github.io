@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"placeholder","permalink":"/docs/blog/2022/04/06/placeholder"},{"title":"Blog Template","permalink":"/docs/blog/blog-template"}]}')}}]);
