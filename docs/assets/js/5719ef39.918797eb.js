@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[672],{4919:function(s){s.exports=JSON.parse('{"allTagsPath":"/docs/tags","name":"Docusaurus","count":1,"permalink":"/docs/tags/docusaurus"}')}}]);
