@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[70],{2274:function(e){e.exports=JSON.parse('{"allTagsPath":"/docs/tags","name":"PyWeb.io","count":2,"permalink":"/docs/tags/py-web-io"}')}}]);
