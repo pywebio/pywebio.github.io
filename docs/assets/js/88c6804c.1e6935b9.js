@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[836],{7417:function(o){o.exports=JSON.parse('{"name":"introduction","permalink":"/docs/tags/introduction","docs":[{"id":"intro","title":"Introduction","description":"Introducution to the PyWeb.io docs and tutorials landing page","permalink":"/docs/"}],"allTagsPath":"/docs/tags"}')}}]);
